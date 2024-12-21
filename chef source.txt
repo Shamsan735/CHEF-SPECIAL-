@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shamas Ameer Noon - IT Specialist</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f8f8f8;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+
+        header {
+            background-color: #007BFF;
+            color: white;
+            padding: 20px 10px;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2em;
+            font-weight: bold;
+        }
+
+        header p {
+            font-size: 1em;
+            font-weight: 300;
+            margin-top: 5px;
+        }
+
+        .container {
+            width: 90%;
+            max-width: 1000px;
+            margin: 20px auto;
+        }
+
+        .section-title {
+            font-size: 1.4em;
+            margin-bottom: 10px;
+            color: #007BFF;
+            border-bottom: 2px solid #007BFF;
+            padding-bottom: 5px;
+        }
+
+        .content {
+            background-color: white;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+
+        .content p, .content ul {
+            margin: 0;
+        }
+
+        ul {
+            padding-left: 20px;
+        }
+
+        li {
+            margin: 5px 0;
+        }
+
+        footer {
+            text-align: center;
+            padding: 15px;
+            background-color: #333;
+            color: white;
+            font-size: 0.9em;
+        }
+
+        footer a {
+            color: #f1f8ff;
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Shamas Ameer Noon</h1>
+        <p>IT Specialist | Network Administration, Cloud Computing & IT Support</p>
+    </header>
+
+    <div class="container">
+        <!-- Contact Information -->
+        <section>
+            <div class="section-title">Contact Information</div>
+            <div class="content">
+                <p><strong>Address:</strong> Saudia Arabia, Dammam</p>
+                <p><strong>Phone:</strong> 0532863117</p>
+                <p><strong>Email:</strong> <a href="mailto:Shamassaab82@gmail.com">Shamassaab82@gmail.com</a></p>
+                <p><strong>Website:</strong> <a href="https://sites.google.com/view/shamasameer/home" target="_blank">https://sites.google.com/view/shamasameer/home</a></p>
+            </div>
+        </section>
+
+        <!-- Summary -->
+        <section>
+            <div class="section-title">Summary</div>
+            <div class="content">
+                <p>Dynamic and results-driven IT Specialist with extensive experience in IT support, network administration, and cloud computing. Proven track record in managing sophisticated IT infrastructures and implementing innovative solutions to enhance system performance and security. Recognized for exceptional problem-solving skills, project management abilities, and a commitment to delivering superior IT services.</p>
+            </div>
+        </section>
+
+        <!-- Work Experience -->
+        <section>
+            <div class="section-title">Work Experience</div>
+            <div class="content">
+                <ul>
+                    <li><strong>IT Technician</strong> - Tamimi Global, Saudi Arabia</li>
+                    <li><strong>IT Specialist</strong> - December 2024 - Present
+                        <ul>
+                            <li>Managed IT infrastructure at Aramco site, ensuring seamless IT operations.</li>
+                            <li>Implemented CAFM software, enhancing facility operations efficiency.</li>
+                            <li>Developed QR Code-based solutions for ticketing and facility management.</li>
+                            <li>Upgraded Access Control Systems, integrating advanced security features.</li>
+                            <li>Led a major Cisco WebEx setup project for Aramco VPs and directors’ meetings.</li>
+                        </ul>
+                    </li>
+                    <li><strong>IT Officer</strong> - Zaitoon Lifestyle
+                        <ul>
+                            <li>Supervised daily IT operations, ensuring smooth network infrastructure functioning.</li>
+                            <li>Delivered top-tier technical support for hardware and software troubleshooting.</li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </section>
+
+        <!-- Education -->
+        <section>
+            <div class="section-title">Education</div>
+            <div class="content">
+                <ul>
+                    <li><strong>Superior College, Lahore</strong> - Intermediate in IT, Faculty of Arts</li>
+                    <li><strong>Matriculation</strong> - Matriculation in Computer Science</li>
+                </ul>
+            </div>
+        </section>
+
+        <!-- Projects -->
+        <section>
+            <div class="section-title">Projects</div>
+            <div class="content">
+                <ul>
+                    <li><strong>Spark Aramco:</strong> Developed an Online Gate Pass Management System, enhancing entry processes for employees and visitors.</li>
+                    <li><strong>Spark Aramco:</strong> Developed an Online CAFM Computer Facility Management System for facility management and maintenance activities such as PPM, corrective work orders, and facility reservation.</li>
+                    <li><strong>Spark Aramco:</strong> Designed a website for the dining hall with an online menu system that customers can scan to view special menus.</li>
+                </ul>
+            </div>
+        </section>
+
+        <!-- Additional Information -->
+        <section>
+            <div class="section-title">Additional Information</div>
+            <div class="content">
+                <p><strong>Technical Skills:</strong></p>
+                <ul>
+                    <li>Windows Server, Linux, and Mac OS environments</li>
+                    <li>Microsoft Office Suite (Word, Excel, PowerPoint, Outlook)</li>
+                    <li>Database Management and SQL</li>
+                </ul>
+                <p><strong>Soft Skills:</strong></p>
+                <ul>
+                    <li>Strong problem-solving abilities</li>
+                    <li>Excellent communication and teamwork skills</li>
+                    <li>Capable of working under pressure</li>
+                </ul>
+            </div>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Shamas Ameer Noon | <a href="mailto:Shamassaab82@gmail.com">Email Me</a></p>
+    </footer>
+</body>
+</html>
